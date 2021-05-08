@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "This is a nodejs project which contain all development tools a developer requires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ssl-validation/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverDriveGain/tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OverDriveGain/tools/issues"
+  },
+  "homepage": "https://github.com/OverDriveGain/tools#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
